@@ -17,6 +17,9 @@ Run :
 1. flutter pub get
 2. flutter run
 
+# Download the app from 
+https://drive.google.com/drive/folders/1kZvPGKHl2k0E2_aRlQObJoCTMVVEi7J9?usp=sharing
+
 # Screenshots 
 
 ![Screenshot from 2023-03-17 03-38-41](https://user-images.githubusercontent.com/70488121/225760605-7f8f2b22-2710-45ff-9df3-bac61e07ee8b.png)
