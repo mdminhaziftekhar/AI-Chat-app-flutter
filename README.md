@@ -1,16 +1,28 @@
-# ai_chat_app_flutter
+# AI Chat App
 
-A new Flutter project.
+# Features
 
-## Getting Started
+1. Users can choose any AI models from OpenAI
+2. Users can interact with the AI model by chatting
+3. Very helpful AI responses
 
-This project is a starting point for a Flutter application.
+## Run the project
 
-A few resources to get you started if this is your first Flutter project:
+This app uses OpenAI's api. If the api key does not work then create your own API key from openai's website and update the key in 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+lib -> constants -> api_consts.dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run : 
+
+1. flutter pub get
+2. flutter run
+
+# Screenshots 
+ file:///home/minhaz/Pictures/Screenshots/Screenshot%20from%202023-03-17%2003-38-41.png
+ file:///home/minhaz/Pictures/Screenshots/Screenshot%20from%202023-03-17%2003-38-52.png
+ file:///home/minhaz/Pictures/Screenshots/Screenshot%20from%202023-03-17%2003-39-34.png
+ file:///home/minhaz/Pictures/Screenshots/Screenshot%20from%202023-03-17%2003-42-28.png
+ 
+
+![Screenshot from 2023-03-17 03-42-43](https://user-images.githubusercontent.com/70488121/225760464-6f1239e4-80a6-49a1-9166-aa484061d933.png)
+
